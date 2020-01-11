@@ -47,7 +47,7 @@ Note \*\* : Background subtraction with past 5 frames as history, using [OpenCV'
 
 ![image](https://user-images.githubusercontent.com/43180977/72202540-a588c280-349b-11ea-9fc1-acef8a50737f.png)
 
-## Recreate the conda environment
+## Create the conda environment
 
 Using anaconda prompt, change directory to your `project_folder` from the previous step.
 
