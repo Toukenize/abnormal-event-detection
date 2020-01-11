@@ -29,7 +29,7 @@ Note \* : Extracted using [OpenPose application](https://github.com/CMU-Perceptu
 
 Note \*\* : Background subtraction with past 5 frames as history, using [OpenCV's Gaussian Mixture-based Background/Foreground Segmentation Algorithm](https://docs.opencv.org/3.4/d7/d7b/classcv_1_1BackgroundSubtractorMOG2.html#details)
 
-## Modelling Enviroment:
+## Modelling Environment
 - OS : Windows 10
 - GPU : NVIDIA RTX2070
 - RAM : 16 GB
@@ -43,7 +43,7 @@ Note \*\* : Background subtraction with past 5 frames as history, using [OpenCV'
 4. [Pretrained Weights for C3D](https://drive.google.com/file/d/1rlZ-xTkTMjgWKiQFUedRnHlDgQwx6yTm/view)
 5. The scripts and yaml from this repository
 
-## Organise them into the following structure:
+## Organise them into this structure:
 
 ![image](https://user-images.githubusercontent.com/43180977/72202540-a588c280-349b-11ea-9fc1-acef8a50737f.png)
 
